@@ -1,9 +1,4 @@
-# Google-Search-Webpage
-Google Search webpage recreated with simple css and html
-
-
-
-<div><h3 align="center">Google Search Webpage</h3></div>
+<div><p align="center"> <img src="https://github.com/JaredWestley/Google-Search-Webpage/blob/main/google-icon-logo-png-transparent.png" width="75" height="75" /></p><h3 align="center">Google Search Webpage</h3></div>
 <p align="center">Google Search webpage recreated with simple css and html</p>
 <p align="center">
 </p>
