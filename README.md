@@ -5,7 +5,7 @@
 
 ### Screenshots
 <p float="left">
-  <img alt="BTC Page" src="NVIDIA_Share_KPGfQK4ymW.png" />
+  <img alt="Main Page" src="NVIDIA_Share_KPGfQK4ymW.png" />
 </p>
 
 #### Warning
